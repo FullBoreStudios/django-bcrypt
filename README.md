@@ -40,5 +40,5 @@ $2y$10$.vt2G66F1.DMx4docxG9BO9Jy0HgCYCWIe35AdFAhb/PmX0GcjGoa
 
 This implementation produces:
 ```
-bcrypt_sha256$$2b$12$xtQ8jSPiQidofTWrA6BtV.TK89Slcm9CYBz8Mfwa96SMCWNC8.ZWC
+bcrypt$$2b$12$xtQ8jSPiQidofTWrA6BtV.TK89Slcm9CYBz8Mfwa96SMCWNC8.ZWC
 ```
