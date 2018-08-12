@@ -11,7 +11,7 @@ Pull this package in through Composer (development/latest version `dev-master`)
 ```
 {
     "require": {
-        "kyslik/django-bcrypt": "0.0.*"
+        "FullBoreStudios/django-bcrypt": "0.0.*"
     }
 }
 ```
@@ -27,7 +27,7 @@ Illuminate\Hashing\HashServiceProvider::class,
 and add django-bcrypt service provider
 
 ```
-Kyslik\Django\Hashing\HashServiceProvider::class,
+FullBoreStudios\Django\Hashing\HashServiceProvider::class,
 ```
 
 ## Examples
