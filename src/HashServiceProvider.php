@@ -1,6 +1,6 @@
 <?php
 
-namespace Kyslik\Django\Hashing;
+namespace FullBoreStudios\Django\Hashing;
 
 use Illuminate\Support\ServiceProvider;
 
