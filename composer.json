@@ -18,7 +18,6 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
         "illuminate/hashing": "5.3.*",
         "illuminate/support": "5.3.*"
     },
