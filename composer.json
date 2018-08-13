@@ -1,6 +1,6 @@
 {
-    "name": "kyslik/django-bcrypt",
-    "description": "Django like bcrypt for Laravel 5.4",
+    "name": "FullBoreStudios/django-bcrypt",
+    "description": "Django like bcrypt for Laravel 5.3",
     "keywords": [
         "laravel",
         "bcrypt",
@@ -12,19 +12,19 @@
     "type": "package",
     "authors": [
         {
-            "name": "Martin Kiesel",
-            "email": "martin.kiesel@gmail.com",
+            "name": "Powershades",
+            "email": "developer@powershades.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": ">=7.0",
-        "illuminate/hashing": "5.4.*",
-        "illuminate/support": "5.4.*"
+        "illuminate/hashing": "5.3.*",
+        "illuminate/support": "5.3.*"
     },
     "autoload": {
         "psr-4": {
-            "Kyslik\\Django\\Hashing\\": "src/"
+            "FullBoreStudios\\Django\\Hashing\\": "src/"
         }
     },
     "minimum-stability": "stable"
