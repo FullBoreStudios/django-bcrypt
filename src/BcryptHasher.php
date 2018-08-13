@@ -1,5 +1,5 @@
 <?php
-namespace Kyslik\Django\Hashing;
+namespace FullBoreStudios\Django\Hashing;
 
 use Illuminate\Hashing\BcryptHasher as OriginalHasher;
 
