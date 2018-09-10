@@ -13,7 +13,7 @@ class BcryptHasher extends OriginalHasher
      */
     protected $rounds = 10;
 
-    protected $prefix = 'bcrypt$';
+    protected $prefix = 'bcrypt_sha256$';
 
 
     /**
